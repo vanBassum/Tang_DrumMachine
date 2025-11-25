@@ -1,4 +1,4 @@
-# FPGA Drum Machine – 48 kHz Audio Engine on a Gowin FPGA
+# FPGA Drum Machine on a Gowin FPGA
 
 Inspired by channels like *mum look no computer* and an itch to play with my FPGA, I built a tiny drum sequencer on a Tang Nano 9K.
 For audio output I used a **1.2k resistor + 3.3nF** RC low-pass filter, followed by an **LM386** into a cheap 8 Ω speaker.
